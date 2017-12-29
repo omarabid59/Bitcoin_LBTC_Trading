@@ -30,6 +30,7 @@ You should see something like this returned back to you:
 > Success. Retrieved Data
 ```
 Then, a GUI like the one below should pop up
+![enter image description here](https://github.com/omarabid59/Bitcoin_LBTC_Trading/blob/master/TradingGUI.png)
 
 
 
