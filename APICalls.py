@@ -143,8 +143,6 @@ def sendBTC(key,secret,clientID, amount_btc, sendingAddress):
     data = urllib.urlencode(values)
     url = 'https://api.quadrigacx.com/v2/bitcoin_withdrawal'
     req = urllib2.Request(url, data=data, headers=hdr)
-    # VASKO This function returns a file-like object with three additional methods".
-    # One of which is getCode() - Return the HTTP Status code of the response.
     response = urllib2.urlopen(req)
     return response.read()
 
