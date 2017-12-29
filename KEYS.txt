@@ -1,0 +1,9 @@
+######## LBTC KEY CCONSTANTS. READ ONLY ACCESS   ########
+hmac_key = 'YOUR_HMAC_KEY'
+hmac_secret = 'YOUR_HMAC_SECRET'
+
+######## QUADRIGA KEY CONSTANTS. WRITE ACCESS GRANTED.  #######
+qkey = 'YOUR_KEY'
+qsecret = 'YOUR_SECRET'
+clientID = 'YOUR_CLIENT_ID'
+
