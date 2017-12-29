@@ -32,7 +32,15 @@ You should see something like this returned back to you:
 Then, a GUI like the one below should pop up
 ![enter image description here](https://github.com/omarabid59/Bitcoin_LBTC_Trading/blob/master/TradingGUI.png)
 
+The GUI is divided into four sections
 
+ 1. In the top left hand quadrant, the total value of your BTC and CAD money in your QuadrigaCX and LocalBitcoins account is listed. You may also transfer bitcoins to and from the two accounts using the buttons provided.
+ 2. In the top right hand quadrant, the current **OPEN TRADES** with any clients are listed and a **NET PROFIT** is calculated. You are also notified how much money you have to transfer to recirculate your funds. You also so a **Quadriga Open Orders** that you have opened but are till pending.
+ 3. In the bottom right hand quadrant, the fields are automatically filled in for you that indicates how much bitcoins you have to purchase and at what price. All you have to do is press the buy/sell button and you are good to go.
+ 4. In the bottom left hand quadrant, the recent buy and sell orders on Quadriga are listed to give you a sense of the current market conditions.
+
+# COLLABORATORS 
+I'd like to thank my business partner and good friend Vassil for building this project and getting operations to move through smoothly.
 
 # COMMENTS
 Did you find this script useful? Do you have suggestions for improvement? Send me an email or checkout my website `me.omarabid4.com` for more information.
