@@ -43,4 +43,4 @@ The GUI is divided into four sections
 I'd like to thank my business partner and good friend Vassil for building this project and getting operations to move through smoothly.
 
 # COMMENTS
-Did you find this script useful? Do you have suggestions for improvement? Send me an email or checkout my [website](me.omarabid4.com) for more information.
+Did you find this script useful? Do you have suggestions for improvement? Send me an email or checkout my [website](http://omar-abid.com) for more information.
